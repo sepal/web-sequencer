@@ -1,0 +1,12 @@
+.pad {
+    cursor: pointer;
+    display: inline-block;
+    width: 4rem;
+    height: 4rem;
+    margin: 0 1rem 1rem 0rem;
+    border-style: solid;
+    border-radius: 5px;
+
+    border-style: solid;
+    border-radius: 5px;
+}
